@@ -7,7 +7,6 @@ void main (void) {
     int x;
     int flag = 0;
 
-
     for (x=1; x <= MAX_NUM; x++) {
         if (!(x%3)) {
             printf("Fizz");
